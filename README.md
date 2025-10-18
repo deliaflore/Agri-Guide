@@ -4,6 +4,12 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-French-lightgrey?style=for-the-badge)
+[![Microservices](https://img.shields.io/badge/Architecture-Microservices-blue)]()
+[![Docker](https://img.shields.io/badge/Containerized-Docker-informational)]()
+[![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326ce5?logo=kubernetes&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)]()
+[![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)]()
+[![Build Status](https://img.shields.io/badge/CI/CD-GitHub_Actions-lightgrey?logo=github)]()
 
 ## 🏢 Présentation Générale
 
