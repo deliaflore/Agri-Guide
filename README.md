@@ -197,7 +197,7 @@ AgriGuide Cloud vise à :
 
 ## 💬 Auteur et Équipe
 
-**👨‍💼 PDG & Fondateur :** Delia Flore Yakoua Dibato 
+**👨‍💼 PDG & Fondateur :** Delia Flore Yakoua Dibato
 **Entreprise :** AgriGuide Technologies  
 **Contact :** deliaflore.yakoua@ictuniversity.edu.cm  
 **GitHub :** Author: [https://github.com/deliaflore/Agri-Guide.git](https://github.com/deliaflore/Agri-Guide.git)
