@@ -1,4 +1,4 @@
-#  AgriGuide Cloud – Plateforme Agricole Distribuée et Collaborative
+#  AgriGuide – Plateforme Agricole Distribuée et Collaborative
 
 ![AgriGuide Banner](https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -200,7 +200,7 @@ AgriGuide Cloud vise à :
 **👨‍💼 PDG & Fondateur :** Aghuke De Ngeh Briyand  
 **Entreprise :** AgriGuide Technologies  
 **Contact :** contact@agriguide.org  
-**GitHub :** 
+**GitHub :** Author: [https://github.com/deliaflore/Agri-Guide.git](https://github.com/deliaflore/Agri-Guide.git)
 
 ## 🧾 Licence
 
