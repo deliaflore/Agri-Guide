@@ -13,7 +13,7 @@
 
 ## 🏢 Présentation Générale
 
-En tant que **PDG de AgriGuide Technologies**, je présente **AgriGuide Cloud**, un service **distribué, scalable, tolérant aux pannes et collaboratif**, conçu pour transformer la manière dont les agriculteurs, chercheurs et institutions agricoles partagent et accèdent à la connaissance.
+En tant que **PDG de AgriGuide Technologies**, je présente **AgriGuide**, un service **distribué, scalable, tolérant aux pannes et collaboratif**, conçu pour transformer la manière dont les agriculteurs, chercheurs et institutions agricoles partagent et accèdent à la connaissance.
 
 **AgriGuide** est une **plateforme d’intelligence agricole** distribuée, alimentée par des **microservices cloud-native** interconnectés. Elle fournit aux petits exploitants agricoles des **recommandations de culture saisonnières**, des **guides de pratiques agricoles durables**, et un **espace collaboratif** pour échanger des connaissances, tout en s’appuyant sur une **infrastructure distribuée hautement disponible**.
 
