@@ -50,7 +50,7 @@ Chaque service est indépendant, communique via un **Message Broker (RabbitMQ)**
 | **Frontend Web & Mobile** | Interface utilisateur réactive et multilingue | Flutter / React |
 
 ### 🗺️ Schéma d’Architecture (Conceptuel)
-
+```
 [User Devices]
 | (HTTPS)
 [API Gateway] → [Auth Service]
@@ -62,7 +62,7 @@ Chaque service est indépendant, communique via un **Message Broker (RabbitMQ)**
 ⤷ [Message Broker: RabbitMQ]
 ⤷ [Database Cluster: MongoDB + PostgreSQL + Redis]
 ⤷ [Monitoring: Prometheus + Grafana]
-
+```
 ## ☁️ Caractéristiques Cloud et Scalabilité
 
 AgriGuide Cloud est **cloud-native**, construit pour fonctionner sur des environnements comme **AWS, Azure, ou Google Cloud**.
@@ -139,7 +139,7 @@ La plateforme intègre un **système de chat en temps réel**, un **forum commun
 6. **Mise à l’échelle automatique** – Horizontal Pod Autoscaler (HPA).
 
 ## 🧩 Structure du Dépôt GitHub
-
+```
 AgriGuide-Cloud/
 │
 ├── api-gateway/
@@ -167,7 +167,7 @@ AgriGuide-Cloud/
 │ └── architecture-diagram.png
 │
 └── README.md
-
+```
 ## 🚀 Exemple de Cas d’Utilisation Distribué
 
 Un agriculteur camerounais se connecte à AgriGuide depuis son téléphone.  
@@ -197,9 +197,9 @@ AgriGuide Cloud vise à :
 
 ## 💬 Auteur et Équipe
 
-**👨‍💼 PDG & Fondateur :** Aghuke De Ngeh Briyand  
+**👨‍💼 PDG & Fondateur :** Delia Flore Yakoua Dibato 
 **Entreprise :** AgriGuide Technologies  
-**Contact :** contact@agriguide.org  
+**Contact :** deliaflore.yakoua@ictuniversity.edu.cm  
 **GitHub :** Author: [https://github.com/deliaflore/Agri-Guide.git](https://github.com/deliaflore/Agri-Guide.git)
 
 ## 🧾 Licence
@@ -215,5 +215,6 @@ Notre architecture à microservices garantit **scalabilité, tolérance aux pann
 
 > _“L’agriculture intelligente ne consiste pas seulement à cultiver la terre, mais à cultiver la connaissance.”_
 
-**📘 Dépôt GitHub :** 
+**📘 Dépôt GitHub :** [AgriGuide Cloud Repository](https://github.com/deliaflore/Agri-Guide.git)
+
 
